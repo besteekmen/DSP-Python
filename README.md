@@ -4,3 +4,7 @@ A set of signal processing applications written in Python. This repo was created
 ### 1. JPEG Compression: 
 An implementation of selected steps of JPEG compression
 <img src="data/1.png" alt="" />
+
+### 2. Gaussian Filter: 
+An implementation Gaussian Filter for denosing with convolution
+<img src="data/2.png" alt="" />
